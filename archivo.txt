@@ -1,3 +1,9 @@
 sdads
 
+<<<<<<< HEAD
 una linea de la branch 2
+=======
+segunda linea agregada desde la rama 1
+
+otro cambio
+>>>>>>> rama1
